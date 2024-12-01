@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.curcon{
+   
+    background-color: grey;
+    width: 300px;
+    height: 100px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+body{
+ background-color: gray;
+}
+.amt{
+    margin-left: 40px;
+}
+.firstinput{
+    padding: 0.4%;
+    border-radius: 5px;
+}
+.CON{
+    padding: 0.4%;
+    margin-left: 37px;
+    border-radius: 5px;
+}
+. .CON :hover{
+    color: blue;
+}
